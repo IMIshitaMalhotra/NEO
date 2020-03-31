@@ -19,9 +19,8 @@ To use the project:
 1. Clone the project to your local machine
 2. Create a virtual environment, named `env`, with `python3 -m env /env` in project root
 3. Activate the virtual environment with `source env/bin/activate`
-4. Navigate to the `/starter` directory
-5. Run `python main.py -h` or `./main.py -h` for an explanation of how to run the project
-6. Or try it out yourself!
+4. Run `python main.py -h` or `./main.py -h` for an explanation of how to run the project
+5. Or try it out yourself!
 
 Example of how to use the interface:
 
